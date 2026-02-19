@@ -80,7 +80,7 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 
                             ⬇
      
-| 📍 ZealTech Inc., Fremont (Jul ’23 – Jul ’24)    |
+| 📍 ZealTech Inc., Fremont (Jul ’23 – Dec ’24)    |
 | ------------------------------------------------------------------------------- |
 | 🔹 Role: Business Analyst                                                         |
 | 📊 Skills: Tableau, Data Governance, Collibra, Workflows                          |
