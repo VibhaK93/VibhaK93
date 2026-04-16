@@ -11,7 +11,7 @@
 
 ### 👋 Hi — I'm Vibhashree 
 
-With 3+ years of experience transforming noisy data into business-critical insights, I’ve worked on analytics initiatives across industries — from luxury retail with Sephora to autism care with Centria Healthcare. Whether I’m building dashboards viewed by VPs or mapping data architectures for marketing transformation, my goal remains the same: make data not just readable, but actionable.
+With 5 years of experience transforming noisy data into business-critical insights, I’ve worked on analytics initiatives across industries — from luxury retail with Sephora to autism care with Centria Healthcare. Whether I’m building dashboards viewed by VPs or mapping data architectures for marketing transformation, my goal remains the same: make data not just readable, but actionable.
 
 My strength lies at the intersection of marketing strategy and data analytics. I’ve architected marketing performance dashboards used to personalize campaigns at scale, automated sales reporting workflows for $60M+ revenue pipelines, and defined data governance frameworks to eliminate inconsistencies and siloed truths. From SQL logic to Power BI storytelling to stakeholder workshops, I’m fluent in the full lifecycle of data-driven decision making.Whether it's reducing reporting effort by 5+ hours/week through automation, or increasing behavior technician performance by 25% through clinical quality analytics, I thrive in high-impact environments where data clarity becomes a competitive advantage.
 
@@ -88,6 +88,7 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 | 📄 Delivered governance assessment for SEPHORA’s data ops                        |
 
 -------------------------------------------------------------
+
 
 
 ---
