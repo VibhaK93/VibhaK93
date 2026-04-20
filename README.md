@@ -50,7 +50,7 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 | ---------------------------------------------------------------------------------------- |
 | 🔹 Role: Business Analyst / Project Manager                                              |
 | 🔧 Skills: JIRA, Agile, SDLC, Smartsheet, Stakeholder Mgt                                 |
-| ✅ Delivered 30+ app projects, reduced change requests 60%                                 |
+| ✅ Delivered 10+ app projects, reduced change requests 60%                                 |
 | 💰 Led mobile game apps generating +\$15K revenue                                         |
 
                            ⬇
