@@ -5,7 +5,7 @@
   <i>Business Data Analyst | MSIS | MBA </i><br>
   <a href="https://www.linkedin.com/in/vibhashyani/">LinkedIn</a> •
   <a href="https://github.com/VibhaK93">GitHub</a> •
-  <a href="mailto:vibhashyani@gmail.com">vibhashyani@gmail.com</a>
+  <a href="mailto:vibhashyani@gmail.com">Email</a>
 </p>
 
 
