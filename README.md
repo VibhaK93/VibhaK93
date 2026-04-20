@@ -11,17 +11,11 @@
 
 ### 👋 Hi — I'm Vibhashree 
 
-With 5 years of experience transforming noisy data into business-critical insights, I’ve worked on analytics initiatives across industries — from luxury retail with Sephora to autism care with Centria Healthcare. Whether I’m building dashboards viewed by VPs or mapping data architectures for marketing transformation, my goal remains the same: make data not just readable, but actionable.
+Business Analyst with 5+ years of experience across retail, healthcare, e-commerce, and education. I translate stakeholder needs into clear requirements, build dashboards and reports that leaders use to make decisions, and validate the data underneath. Skilled in SQL, Power BI, Tableau, and Excel, with dual Master's degrees in Information Systems (Business Analytics) and Marketing.
 
-My strength lies at the intersection of marketing strategy and data analytics. I’ve architected marketing performance dashboards used to personalize campaigns at scale, automated sales reporting workflows for $60M+ revenue pipelines, and defined data governance frameworks to eliminate inconsistencies and siloed truths. From SQL logic to Power BI storytelling to stakeholder workshops, I’m fluent in the full lifecycle of data-driven decision making.Whether it's reducing reporting effort by 5+ hours/week through automation, or increasing behavior technician performance by 25% through clinical quality analytics, I thrive in high-impact environments where data clarity becomes a competitive advantage.
+A few things I've delivered: 7+ Tableau dashboards for Sephora's marketing transformation, Power BI dashboards tracking $60M+ in revenue for 10+ directors at Propeller Internal team, a 40% reduction in reporting errors through SQL-based data quality work at Centria Healthcare, and a 30% engagement lift on an LMS rollout for 5,000+ users at IIMT Studies. Currently at Electronic Expeditors, analyzing 5,000+ SKUs across OEM, ECM, and MRO segments for a B2B e-commerce rollout, using GenAI tools to speed up documentation and analysis.
 
-Before diving into data pipelines and performance dashboards, I began my journey at the intersection of business development and analysis, solving real-world challenges with a strategic and hands-on approach. At IIMT Studies, I led the transformation of an E-learning platform, boosting student engagement by 30% through process improvements, KPI-led decision-making, and strategic adoption of digital tools. Before that, at Potenza Global Solutions, I transitioned into a dual role as Business Analyst and Project Manager, where I successfully delivered 30+ tech projects. I specialized in translating complex client needs into structured requirements, agile sprints, wireframes, and ultimately, scalable digital solutions that drove measurable business outcomes. 
-
-That foundation—rooted in business strategy, stakeholder management, and process improvement—laid the groundwork towards my analytical journey.
-
-With dual Master’s degrees in Information Systems and Marketing, I bridge both the business why and the technical how — helping teams unlock insights, streamline execution, and scale smarter.
-
-Let’s connect if you're looking for someone who can bring structure to data chaos and turn performance questions into measurable results.
+Open to connecting on analytics roles and new opportunities.
 
 ---
 
@@ -32,7 +26,7 @@ Let’s connect if you're looking for someone who can bring structure to data ch
 | SQL (SSMS), IBM SPSS, JMP                | Google Analytics              | Tableau, Power BI (DAX, PowerQuery) | Microsoft Azure, AWS, GCP    | Jira, Trello, Smartsheet        |
 | Statistical Analysis                     | Market Research               | Excel, Ad Hoc Reporting             | Salesforce CRM, NetSuite ERP | Agile Methodology, Scrum (SAFe) |
 | Survey Design (Qualtrics, Survey Monkey) | Lifecycle Analytics           | PowerPoint, G Suite, MS Suite       | API Integration, Totango     | Project Management, Lucidchart  |
-|                                          | Figma, Data Storytelling            |                              | Stakeholder Communication       |
+|  GenAI for Analysis & Documentation                                        | Figma, Data Storytelling            |                              | Stakeholder Communication       |
 
 --- 
 
@@ -89,7 +83,16 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 
 -------------------------------------------------------------
 
+                            ⬇
+                            
+| 📍 Electronic Expeditors, Inc., Wisconsin (Jan'26 - Present)   |
+| ------------------------------------------------------------------------------- |
+| 🔹 Role: Business & QA Analyst                                                         |
+| 📊 Skills: B2B E-commerce, SKU Analysis, GenAI, QA, Requirements                        |
+| 🛒 Analyzing 5,000+ SKUs across OEM, ECM & MRO customer segments                         |
+|🤖 Applying GenAI tools to accelerate documentation & segmentation analysis                |
 
+-------------------------------------------------------------
 
 ---
 
@@ -100,7 +103,8 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 | 2017–2018     | JIRA, Smartsheet, Agile                | SDLC, Product Delivery, App Management         |
 | 2018–2020     | Excel, LMS, Power Query                | Digital Transformation, E-learning, KPIs       |
 | 2022–2023     | Power BI, SQL, Salesforce, API Integration | Healthcare Analytics, Automation, Revenue   |
-| 2023–2024     | Tableau, Collibra, Figma               | Marketing Insights, Data Governance            |
+| 2023–2024     | Tableau, Collibra, Figma               | Marketing Insights, Data Governance     
+| 2026–Present  | SQL, Power BI, GenAI Tools, QA Frameworks | B2B E-commerce, SKU Analytics, Requirements|
 
 
 ---
