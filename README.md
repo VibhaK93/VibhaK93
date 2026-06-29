@@ -1,8 +1,8 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vibhashree+Shyani;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Data+into+Business+Decisions" alt="Typing SVG" />
+</h1>
 
-
-<h1 align="center">Vibhashree Shyani</h1>
 <p align="center">
-  <i>Business Data Analyst | MSIS | MBA </i><br>
   <a href="https://www.linkedin.com/in/vibhashyani/">LinkedIn</a> •
   <a href="https://github.com/VibhaK93">GitHub</a> •
   <a href="mailto:vibhashyani@gmail.com">Email</a>
